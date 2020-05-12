@@ -1,4 +1,4 @@
-const pathsConfig = require('./build/path.conifg');
+const pathsConfig = require('./build/path.config');
 
 module.exports = {
   presets: [
